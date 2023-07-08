@@ -1,10 +1,10 @@
 ---
-title: Example post 1
-author: sarah-johnson
+title: Orientation of Juniors
+author: Kapil
 tags:
-  - biology
-  - medicine
-  - big data
+  - Orientation
+  - IIT BHU
+  
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are going to be the best club

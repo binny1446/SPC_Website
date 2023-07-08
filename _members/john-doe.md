@@ -1,10 +1,10 @@
 ---
-name: John Doe
+name: Kapil
 image: images/photo.jpg
-role: phd
-group: alum
+role: Core Team Member
+group: 
 links:
   github: john-doe
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+3rd year from chemical

@@ -37,7 +37,7 @@ Our technical Projects
 
 {% capture text %}
 
-Our Blogs
+Our Team
 
 {%
   include button.html
